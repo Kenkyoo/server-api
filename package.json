@@ -1,0 +1,30 @@
+{
+  "name": "api-recommendations",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "daisyui": "^4.12.10",
+    "tailwindcss": "^3.4.10",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.6.2",
+    "axios": "^1.7.5",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jquery": "^3.7.1",
+    "lazysizes": "^5.3.2",
+    "lodash": "^4.17.21",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "main": "webpack.config.js",
+  "description": ""
+}
